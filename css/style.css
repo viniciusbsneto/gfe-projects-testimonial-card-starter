@@ -73,19 +73,21 @@ body {
 
 .testimonial-card__author-name {
   color: var(--neutral-900);
-  font-size: var(--text-lg);
+  font-size: 18px;
   font-weight: 600;
   line-height: 28px;
 }
 
 .testimonial-card__author-social-handle {
   color: var(--neutral-600);
+  font-size: 14px;
   line-height: 20px;
 }
 
 .testimonial-card__testimony {
   color: var(--neutral-600);
-  line-height: 1.5;
+  font-size: 16px;
+  line-height: 24px;
 }
 
 @media (min-width: 768px) {
